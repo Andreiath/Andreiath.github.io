@@ -4,9 +4,9 @@
 
 
  <div>
-   <a href="https://github.com/JH-Araujo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JH-Araujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH-Araujo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Andreiath/">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreiath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreiath&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
